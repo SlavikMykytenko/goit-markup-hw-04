@@ -225,7 +225,7 @@ justify-content: end;
 
 .hero {
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-    url(../images/img.jpg);
+    url(../images/hero.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
